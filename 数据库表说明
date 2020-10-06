@@ -1,0 +1,7 @@
+t_admin
+    id                          主键
+    login_acct                  登录账号
+    user_pswd                   登录密码
+    user_name                   名称
+    email                       邮件
+    create_time                 创建时间
